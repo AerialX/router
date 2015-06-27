@@ -13,5 +13,6 @@ keywords = ["iron", "web", "http", "routing", "router"]
 route-recognizer = "*"
 
 [dependencies.iron]
-version = "*"
+git = "https://github.com/AerialX/iron.git"
+branch = "feat/hyper-0.6"
 default-features = false
